@@ -1,0 +1,17 @@
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 25px;
+}
+h2{
+    font-size: 35px;
+    font-weight: bold;
+    margin: 20px;
+}
+p{
+    margin: 20px;
+}
+ul{
+    margin-left: 50px;
+    list-style-type: disc;
+}
